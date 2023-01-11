@@ -27,7 +27,7 @@ BEGIN_PANEL
 END_PANEL
 
 BEGIN_SHIPS
-AS-205:ProjectApollo/Saturn1B
+AS-205:ProjectApollo/Saturn1b
   STATUS Landed Earth
   BASE Cape Canaveral:3
   POS -80.5612465 28.5217969
@@ -264,20 +264,20 @@ AS-205:ProjectApollo/Saturn1B
     FILE Doc\Project Apollo - NASSP\Checklists\Apollo 7 Checklists.xls
   </Checklist>
 END
-LC34:ProjectApollo\LC34
+LC34:ProjectApollo/LC34
   STATUS Landed Earth
   POS -80.5612480 28.5217971
   HEADING 180.26
   LVNAME AS-205
   LAUNCHMJD 40140.6269097222
 END
-VAB:ProjectApollo\VAB
+VAB:ProjectApollo/VAB
   STATUS Landed Earth
   POS -80.6509353 28.5860469
   HEADING 75.67
   LVNAME AS-205
 END
-MCC:ProjectApollo\MCC
+MCC:ProjectApollo/MCC
   STATUS Landed Earth
   POS -95.08833333 29.55805556
   HEADING 270.00

@@ -3,7 +3,7 @@ Orbiter saved state at T = 1950
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System ProjectApollo\Sol_VirtualAGC
+  System ProjectApollo/Sol_VirtualAGC
   Date MJD 40363.8492676793
   Help CurrentState_img
 END_ENVIRONMENT
@@ -27,7 +27,7 @@ BEGIN_PANEL
 END_PANEL
 
 BEGIN_SHIPS
-Charlie-Brown:ProjectApollo\Saturn5
+Charlie-Brown:ProjectApollo/Saturn5
   STATUS Orbiting Moon
   RPOS -1763118.138 -21640.626 -544773.538
   RVEL -481.4998 -29.5169 1557.3546
@@ -6280,7 +6280,7 @@ PANELSWITCHES_END
   SPLASHDOWN -1000000000.000000
   SaturnEvents END 
 END
-Floodlight:ProjectApollo\Floodlight
+Floodlight:ProjectApollo/Floodlight
   STATUS Landed Earth
   POS -80.6209060 28.6271422
   HEADING 0.00
@@ -6298,7 +6298,7 @@ Floodlight:ProjectApollo\Floodlight
   LIGHT 4 50.400000 26.200000 14.900000 2.829178 1.106539 245.000000 35.000000
   LIGHT 5 -56.500000 25.900000 -12.100000 5.719444 0.930261 245.000000 35.000000
 END
-MCC:ProjectApollo\MCC
+MCC:ProjectApollo/MCC
   STATUS Landed Earth
   POS -95.0883333 29.5580556
   HEADING 270.00
@@ -6662,7 +6662,7 @@ LVDA_BEGIN
 LVDA_END
 IU_END
 LVDC_BEGIN
-  LVDC_FSPFileName Config\ProjectApollo\AS-505 Flight Sequence Program.txt
+  LVDC_FSPFileName Config/ProjectApollo/AS-505 Flight Sequence Program.txt
   LVDC_alpha_D_op 1
   LVDC_BOOST 0
   LVDC_CHIBARSTEER 1

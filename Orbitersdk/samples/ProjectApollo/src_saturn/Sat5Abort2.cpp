@@ -30,7 +30,7 @@
 #include "papi.h"
 #include "OrbiterMath.h"
 
-#include "Sat5Abort2.h"
+#include "sat5abort2.h"
 
 const VECTOR3 OFS_STAGE1 =  { 0, 0, -8.935};
 const VECTOR3 OFS_STAGE2 =  { 0, 0, 9.25-12.25};

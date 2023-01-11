@@ -53,7 +53,7 @@ S-IVB-204:ProjectApollo/nsat1stg2
   MAINSTATE 113
   PAYLOADEJECTIONFORCE 1210.0
   LVDC_BEGIN
-		LVDC_FSPFileName Config\ProjectApollo\AS-204 Flight Sequence Program.txt
+		LVDC_FSPFileName Config/ProjectApollo/AS-204 Flight Sequence Program.txt
 		LVDC_A_zL 90.0
 		LVDC_dV_B 0.0
 		LVDC_Fx[1][0] -0.375703896100
@@ -250,7 +250,7 @@ AS-204-Nosecap:ProjectApollo/Sat1Aerocap
   ALT 67.0
   DOCKINFO 0:2,S-IVB-204
 END
-LC37:ProjectApollo\LC37
+LC37:ProjectApollo/LC37
   STATUS Landed Earth
   POS -80.5650777 28.5314463
   HEADING 180.05
@@ -259,7 +259,7 @@ LC37:ProjectApollo\LC37
   SIVBNAME S-IVB-204
   LAUNCHMJD 39877.9501041667
 END
-MCC:ProjectApollo\MCC
+MCC:ProjectApollo/MCC
   STATUS Landed Earth
   POS -95.08833333 29.55805556
   HEADING 270.00

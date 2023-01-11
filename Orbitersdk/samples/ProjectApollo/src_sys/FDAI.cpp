@@ -116,11 +116,11 @@ void FDAI::InitGL() {
 	int texture_index;
 	if (LM_FDAI)
 	{
-		texture_index = LoadOGLBitmap("Textures\\ProjectApollo\\FDAI_Ball_LM.dds");
+		texture_index = LoadOGLBitmap("Textures/ProjectApollo/FDAI_Ball_LM.dds");
 	}
 	else
 	{
-		texture_index = LoadOGLBitmap("Textures\\ProjectApollo\\FDAI_Ball.dds");
+		texture_index = LoadOGLBitmap("Textures/ProjectApollo/FDAI_Ball.dds");
 	}
 	if (texture_index > 0) glEnable(GL_TEXTURE_2D);
 

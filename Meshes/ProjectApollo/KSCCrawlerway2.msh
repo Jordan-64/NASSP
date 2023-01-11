@@ -4902,6 +4902,6 @@ MATERIAL Mtl #0 with with Tex: ProjectApollo\CanaveralMetal
 1.0 1.0 1.0 1.0 0.0
 0.0 0.0 0.0 1.0
 TEXTURES 3
-ProjectApollo\KSCcrawlerway_sand.dds
-ProjectApollo\KSCcrawlerway_median.dds
-ProjectApollo\CanaveralMetal.dds
+ProjectApollo/KSCcrawlerway_sand.dds
+ProjectApollo/KSCcrawlerway_median.dds
+ProjectApollo/CanaveralMetal.dds

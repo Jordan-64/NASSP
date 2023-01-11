@@ -144,8 +144,8 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_csm\eva.cpp" />
-    <ClCompile Include="..\..\src_aux\tracer.cpp">
+    <ClCompile Include="../../src_csm/eva.cpp" />
+    <ClCompile Include="../../src_aux/tracer.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
@@ -153,8 +153,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_csm\eva.h" />
-    <ClInclude Include="..\..\src_aux\tracer.h" />
+    <ClInclude Include="../../src_csm/eva.h" />
+    <ClInclude Include="../../src_aux/tracer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

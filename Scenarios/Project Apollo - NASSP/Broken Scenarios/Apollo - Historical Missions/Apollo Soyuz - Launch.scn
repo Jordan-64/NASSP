@@ -10,7 +10,7 @@ Real rendez vous took place after 2 days passing over Metz (North-East of France
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System ProjectApollo\Sol
+  System ProjectApollo/Sol
   Date MJD 42608.8655586226
 END_ENVIRONMENT
 
@@ -42,7 +42,7 @@ BEGIN_PANEL
 END_PANEL
 
 BEGIN_SHIPS
-AS-211:ProjectApollo\Saturn1b
+AS-211:ProjectApollo/Saturn1b
   STATUS Landed Earth
   BASE Cape Canaveral:2
   POS -80.6069645 28.6012355
@@ -65,7 +65,7 @@ AS-211:ProjectApollo\Saturn1b
   ATTACHSTATE 63
   PAYN ASTP-DM
 END
-ML:ProjectApollo\ML
+ML:ProjectApollo/ML
   STATUS Landed Earth
   POS -80.6069608 28.6013186
   HEADING 0.43

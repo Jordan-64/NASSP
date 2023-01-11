@@ -53,9 +53,9 @@
 #include <crtdbg.h>
 
 extern "C" {
-#include <lua\lua.h>
-#include <lua\lualib.h>
-#include <lua\lauxlib.h>
+#include <lua/lua.h>
+#include <lua/lualib.h>
+#include <lua/lauxlib.h>
 }
 
 //
@@ -4534,7 +4534,7 @@ void Saturn::LoadDefaultSounds()
 	soundlib.LoadSound(SMasterAlarm, MASTERALARM_SOUND, INTERNAL_ONLY);
 	soundlib.LoadSound(SplashS, SPLASH_SOUND);
 	soundlib.LoadSound(StageS, "Stagesep.wav");
-	soundlib.LoadSound(CrashBumpS, "Crash.wav");
+	soundlib.LoadSound(CrashBumpS, "crash.WAV");
 	soundlib.LoadSound(SDockingCapture, DOCKINGCAPTURE_SOUND, INTERNAL_ONLY);
 	soundlib.LoadSound(SDockingLatch, DOCKINGLATCH_SOUND, INTERNAL_ONLY);
 	soundlib.LoadSound(SDockingExtend, DOCKINGEXTEND_SOUND, INTERNAL_ONLY);

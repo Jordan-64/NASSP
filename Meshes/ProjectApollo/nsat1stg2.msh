@@ -16104,7 +16104,7 @@ MATERIAL tank with Tex: ProjectApollo/s1bs4btank
 1.0 1.0 1.0 1.0 200
 0.0 0.0 0.0 1.0
 TEXTURES 4
-ProjectApollo\s1bs4b.dds
-ProjectApollo\s1bs4bbottom.dds
-ProjectApollo\s1bs4btop.dds
-ProjectApollo\s1bs4btank.dds
+ProjectApollo/s1bs4b.dds
+ProjectApollo/s1bs4bbottom.dds
+ProjectApollo/s1bs4btop.dds
+ProjectApollo/s1bs4btank.dds

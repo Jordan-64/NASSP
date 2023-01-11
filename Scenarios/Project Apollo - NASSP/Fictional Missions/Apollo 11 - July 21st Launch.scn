@@ -4,7 +4,7 @@ Landing on July 21, 1969. The scenario starts at T-4h00min, launch azimuth is +9
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System ProjectApollo\Sol_VirtualAGC
+  System ProjectApollo/Sol_VirtualAGC
   Date MJD 40423.506250
 END_ENVIRONMENT
 
@@ -24,7 +24,7 @@ BEGIN_PANEL
 END_PANEL
 
 BEGIN_SHIPS
-Columbia:ProjectApollo\Saturn5
+Columbia:ProjectApollo/Saturn5
   STATUS Landed Earth
   BASE Cape Canaveral:2
   POS -80.6041140 28.6082888
@@ -334,7 +334,7 @@ Columbia:ProjectApollo\Saturn5
     OPX 184.6775
   ASCP_END
   LVDC_BEGIN
-    LVDC_FSPFileName Config\ProjectApollo\AS-506 Flight Sequence Program.txt
+    LVDC_FSPFileName Config/ProjectApollo/AS-506 Flight Sequence Program.txt
     LVDC_SIICenterEngineCutoff 1
 	LVDC_ALFTSA 14.488551
 	LVDC_ALFTSB 14.1505236
@@ -853,30 +853,30 @@ Columbia:ProjectApollo\Saturn5
     FILE Doc\Project Apollo - NASSP\Checklists\Apollo 11 Checklists.xls
   </Checklist>
 END
-Crawler-Transporter:ProjectApollo\Crawler
+Crawler-Transporter:ProjectApollo/Crawler
   STATUS Landed Earth
   POS -80.6208716 28.5950241
   HEADING 65.81
   LVNAME Columbia
 END
-ML:ProjectApollo\ML
+ML:ProjectApollo/ML
   STATUS Landed Earth
   POS -80.6041122 28.6083723
   HEADING 0.58
   LVNAME Columbia
 END
-VAB:ProjectApollo\VAB
+VAB:ProjectApollo/VAB
   STATUS Landed Earth
   POS -80.6509353 28.5860469
   HEADING 75.67
   LVNAME Columbia
 END
-MSS:ProjectApollo\MSS
+MSS:ProjectApollo/MSS
   STATUS Landed Earth
   POS -80.6199329 28.5953797
   HEADING 245.34
 END
-Floodlight:ProjectApollo\Floodlight
+Floodlight:ProjectApollo/Floodlight
   STATUS Landed Earth
   POS -80.6041210 28.6082800
   HEADING 0.00

@@ -15987,8 +15987,8 @@ MATERIAL Couch_Frames_with_Tex:_ProjectApollo/VCTest/CMVCDetTex2_Pro
 0.900 0.900 0.900 1.000 0.000
 0.600 0.600 0.600 1.000
 TEXTURES 5
-ProjectApollo\VC\CMVCDetTex5.dds
-ProjectApollo\VC\CMVCDetTex6.dds
-ProjectApollo\VC\CMVCDetTex1.dds
-ProjectApollo\VC\MAINVCTEX.dds
-ProjectApollo\VC\CMVCDetTex2.dds
+ProjectApollo/VC/CMVCDetTex5.dds
+ProjectApollo/VC/CMVCDetTex6.dds
+ProjectApollo/VC/CMVCDetTex1.dds
+ProjectApollo/VC/MAINVCTEX.dds
+ProjectApollo/VC/CMVCDetTex2.dds

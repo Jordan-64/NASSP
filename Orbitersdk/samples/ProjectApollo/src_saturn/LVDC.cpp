@@ -396,7 +396,7 @@ void LVDC1B::Init(){
 		return;
 	}
 
-	sprintf(FSPFileName, "Config\\ProjectApollo\\Saturn IB Default Flight Sequence Program.txt");
+	sprintf(FSPFileName, "Config/ProjectApollo/Saturn IB Default Flight Sequence Program.txt");
 	
 	//presettings in order of boeing listing for easier maintainece
 	//GENERAL
@@ -3526,7 +3526,7 @@ void LVDCSV::Init(){
 		return;
 	}
 
-	sprintf(FSPFileName, "Config\\ProjectApollo\\Saturn V Default Flight Sequence Program.txt");
+	sprintf(FSPFileName, "Config/ProjectApollo/Saturn V Default Flight Sequence Program.txt");
 
 	//presettings in order of boeing listing for easier maintainece
 	//GENERAL

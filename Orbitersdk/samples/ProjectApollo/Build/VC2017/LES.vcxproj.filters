@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_saturn\LES.cpp">
+    <ClCompile Include="../../src_saturn/LES.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_saturn\LES.h">
+    <ClInclude Include="../../src_saturn/LES.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\nasspdefs.h">
+    <ClInclude Include="../../src_sys/nasspdefs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1639,5 +1639,5 @@ MATERIAL Crawlerway2 with Tex: ProjectApollo\KSCcrawlerway_median
 1.0 1.0 1.0 1.0 0.0
 0.0 0.0 0.0 1.0
 TEXTURES 2
-ProjectApollo\KSCcrawlerway_sand.dds
-ProjectApollo\KSCcrawlerway_median.dds
+ProjectApollo/KSCcrawlerway_sand.dds
+ProjectApollo/KSCcrawlerway_median.dds

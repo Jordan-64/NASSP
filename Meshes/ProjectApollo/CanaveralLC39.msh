@@ -41277,10 +41277,10 @@ MATERIAL Material8
 1 1 1 1
 0 0 0 1
 TEXTURES 7
-ProjectApollo\CanaveralAcross.dds
-ProjectApollo\CanaveralRoad3.dds
-ProjectApollo\CanaveralRoad2.dds
-ProjectApollo\CanaveralConcrete.dds
-ProjectApollo\CanaveralRoad.dds
-ProjectApollo\CanaveralMetal.dds
-ProjectApollo\CanaveralPipes.dds
+ProjectApollo/CanaveralAcross.dds
+ProjectApollo/CanaveralRoad3.dds
+ProjectApollo/CanaveralRoad2.dds
+ProjectApollo/CanaveralConcrete.dds
+ProjectApollo/CanaveralRoad.dds
+ProjectApollo/CanaveralMetal.dds
+ProjectApollo/CanaveralPipes.dds

@@ -59,13 +59,13 @@ AS-525:ProjectApollo/SaturnINT20
   MOONALT 0.0
   LANG English
 END
-ML:ProjectApollo\ML
+ML:ProjectApollo/ML
   STATUS Landed Earth
   POS -80.6069608 28.6013186
   HEADING 0.43
   LVNAME AS-525
 END
-VAB:ProjectApollo\VAB
+VAB:ProjectApollo/VAB
   STATUS Landed Earth
   POS -80.6532730 28.5795280
   HEADING 75.04

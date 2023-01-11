@@ -149,16 +149,16 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_aux\ProjectApolloConfigurator\ProjectApolloConfigurator.cpp">
+    <ClCompile Include="../../src_aux/ProjectApolloConfigurator/ProjectApolloConfigurator.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\vesim.cpp" />
+    <ClCompile Include="../../src_aux/vesim.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="..\..\src_aux\ProjectApolloConfigurator\ProjectApolloConfigurator.rc">
+    <ResourceCompile Include="../../src_aux/ProjectApolloConfigurator/ProjectApolloConfigurator.rc">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">\Dokumente und Einstellungen\mjoachim\Eigene Dateien\Games\ProjectApollo\Orbiter\Orbitersdk\samples\ProjectApollo\ProjectApolloConfigurator;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -166,8 +166,8 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_aux\ProjectApolloConfigurator\resource.h" />
-    <ClInclude Include="..\..\src_aux\vesim.h" />
+    <ClInclude Include="../../src_aux/ProjectApolloConfigurator/resource.h" />
+    <ClInclude Include="../../src_aux/vesim.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

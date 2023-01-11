@@ -187,10 +187,10 @@ void SaturnV::initSaturnV()
 	CalculateStageMass();
 
 	// load wave (Handle defined in begining of file)
-	soundlib.LoadSound(SpeedS, "reentry.wav");
+	soundlib.LoadSound(SpeedS, "Reentry.WAV");
 	soundlib.LoadSound(DockS, "docking.wav");
 
-	soundlib.LoadSound(SRover, "LRover.WAV");
+	soundlib.LoadSound(SRover, "LRover.wav");
 }
 
 SaturnV::~SaturnV()

@@ -30,7 +30,7 @@ BEGIN_MFD Right
 END_MFD
 
 BEGIN_SHIPS
-AS-203:ProjectApollo/Saturn1B
+AS-203:ProjectApollo/Saturn1b
   STATUS Landed Earth
   BASE Cape Canaveral:3
   POS -80.5612465 28.5217969
@@ -50,7 +50,7 @@ AS-203:ProjectApollo/Saturn1B
   SIIFUELMASS 72941.6
   SIIEMPTYMASS 15672.0
   LVDC_BEGIN
-    LVDC_FSPFileName Config\ProjectApollo\AS-203 Flight Sequence Program.txt
+    LVDC_FSPFileName Config/ProjectApollo/AS-203 Flight Sequence Program.txt
     LVDC_Ax[0] 72.0
     LVDC_Lambda_0 120.5405773
 	LVDC_dV_B 12.0
@@ -88,7 +88,7 @@ AS-203:ProjectApollo/Saturn1B
   LVIMU_BEGIN
   LVIMU_END
 END
-LC34:ProjectApollo\LC34
+LC34:ProjectApollo/LC34
   STATUS Landed Earth
   POS -80.5612480 28.5217971
   HEADING 180.26

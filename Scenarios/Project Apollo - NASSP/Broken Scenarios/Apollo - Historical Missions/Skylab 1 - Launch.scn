@@ -3,7 +3,7 @@ Join Pete Conrad, Paul Weitz and Joe Kerwin on the mission to rescue Skylab and 
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System ProjectApollo\Sol
+  System ProjectApollo/Sol
   Date MJD 41827.5416666667
 END_ENVIRONMENT
 
@@ -30,7 +30,7 @@ BEGIN_MFD Right
 END_MFD
 
 BEGIN_SHIPS
-SKYLAB:ProjectApollo\Saturn5Skylab
+SKYLAB:ProjectApollo/Saturn5Skylab
   STATUS Landed Earth
   BASE Cape Canaveral:2
   HEADING 90.00
@@ -44,7 +44,7 @@ SKYLAB:ProjectApollo\Saturn5Skylab
   TOHDG 72
   TCP -8.5
 END
-Skylab-2:ProjectApollo\Saturn1b
+Skylab-2:ProjectApollo/Saturn1b
   STATUS Landed Earth
   BASE Cape Canaveral:1
   HEADING 90.00

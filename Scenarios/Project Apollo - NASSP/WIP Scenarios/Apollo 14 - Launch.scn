@@ -3,7 +3,7 @@ Al Shepard, Stu Roosa and Ed Mitchel make man's fourth landing attempt on the mo
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System ProjectApollo\Sol_VirtualAGC
+  System ProjectApollo/Sol_VirtualAGC
   Date MJD 40982.6826388889
 END_ENVIRONMENT
 
@@ -290,7 +290,7 @@ Kitty-Hawk:ProjectApollo/Saturn5
   AUTOSLOW 1
   LEMCHECK Doc\Project Apollo - NASSP\Checklists\LM Default Checklists.xls
 LVDC_BEGIN
-  LVDC_FSPFileName Config\ProjectApollo\H-Mission Flight Sequence Program.txt
+  LVDC_FSPFileName Config/ProjectApollo/H-Mission Flight Sequence Program.txt
   LVDC_SIICenterEngineCutoff 1
   LVDC_ALFTSA 14.2691472
   LVDC_ALFTSB 14.2651188
@@ -793,30 +793,30 @@ LVIMU_END
     FILE Doc\Project Apollo - NASSP\Checklists\CSM Default Checklists.xls
   </Checklist>  
 END
-Crawler-Transporter:ProjectApollo\Crawler
+Crawler-Transporter:ProjectApollo/Crawler
   STATUS Landed Earth
   POS -80.6208716 28.5950241
   HEADING 65.81
   LVNAME Kitty-Hawk
 END
-ML:ProjectApollo\ML
+ML:ProjectApollo/ML
   STATUS Landed Earth
   POS -80.6041122 28.6083723
   HEADING 0.58
   LVNAME Kitty-Hawk
 END
-VAB:ProjectApollo\VAB
+VAB:ProjectApollo/VAB
   STATUS Landed Earth
   POS -80.6509353 28.5860469
   HEADING 75.67
   LVNAME Kitty-Hawk
 END
-MSS:ProjectApollo\MSS
+MSS:ProjectApollo/MSS
   STATUS Landed Earth
   POS -80.6199329 28.5953797
   HEADING 245.34
 END
-Floodlight:ProjectApollo\Floodlight
+Floodlight:ProjectApollo/Floodlight
   STATUS Landed Earth
   POS -80.6041210 28.6082800
   HEADING 0.00
@@ -828,7 +828,7 @@ Floodlight:ProjectApollo\Floodlight
   LIGHT 4 50.400000 26.200000 14.900000 2.829178 1.106539 245.000000 35
   LIGHT 5 -56.500000 25.900000 -12.100000 5.719444 0.930261 245.000000 35
 END
-MCC:ProjectApollo\MCC
+MCC:ProjectApollo/MCC
   STATUS Landed Earth
   POS -95.08833333 29.55805556
   HEADING 270.00

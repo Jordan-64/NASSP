@@ -13892,5 +13892,5 @@ MATERIAL Material #2
 1.000 1.000 1.000 1
 0 0 0 1
 TEXTURES 2
-ProjectApollo\Rocks.dds
-ProjectApollo\Moon-s1.dds
+ProjectApollo/Rocks.dds
+ProjectApollo/Moon-s1.dds

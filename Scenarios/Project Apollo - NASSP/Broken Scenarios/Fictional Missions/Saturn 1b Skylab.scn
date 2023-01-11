@@ -59,7 +59,7 @@ AS-225:ProjectApollo/Saturn1b
   ATTACHSTATE 63
   SLASTATE 150
 END
-LC34:ProjectApollo\LC34
+LC34:ProjectApollo/LC34
   STATUS Landed Earth
   POS -80.5643399 28.5150804
   HEADING 180.05

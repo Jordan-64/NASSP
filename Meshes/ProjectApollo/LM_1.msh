@@ -39491,12 +39491,12 @@ MATERIAL Glass
 1.0 1.0 1.0 0.10999999940395355 76
 0.0 0.14529238033901848 0.13300590611414442 0.10999999940395355
 TEXTURES 9
-ProjectApollo\redfoil.dds
-ProjectApollo\silverfo.dds
-ProjectApollo\goldfoil.dds
-ProjectApollo\LMDCS.dds
-ProjectApollo\LMASC.dds
-ProjectApollo\quads.dds
-ProjectApollo\redfoil.dds
-ProjectApollo\rcs.dds
-ProjectApollo\silverfo.dds
+ProjectApollo/redfoil.dds
+ProjectApollo/silverfo.dds
+ProjectApollo/goldfoil.dds
+ProjectApollo/LMDCS.dds
+ProjectApollo/LMASC.dds
+ProjectApollo/quads.dds
+ProjectApollo/redfoil.dds
+ProjectApollo/rcs.dds
+ProjectApollo/silverfo.dds

@@ -12,162 +12,162 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_rtccmfd\ApollomfdButtons.h">
+    <ClInclude Include="../../src_rtccmfd/ApollomfdButtons.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\ApolloRTCCMFD.h">
+    <ClInclude Include="../../src_rtccmfd/ApolloRTCCMFD.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\ARCore.h">
+    <ClInclude Include="../../src_rtccmfd/ARCore.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\EntryCalculations.h">
+    <ClInclude Include="../../src_rtccmfd/EntryCalculations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\OrbMech.h">
+    <ClInclude Include="../../src_rtccmfd/OrbMech.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\rtcc.h">
+    <ClInclude Include="../../src_launch/rtcc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\ARoapiModule.h">
+    <ClInclude Include="../../src_rtccmfd/ARoapiModule.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\LMGuidanceSim.h">
+    <ClInclude Include="../../src_rtccmfd/LMGuidanceSim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\LWP.h">
+    <ClInclude Include="../../src_rtccmfd/LWP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\LDPP.h">
+    <ClInclude Include="../../src_rtccmfd/LDPP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\TLMCC.h">
+    <ClInclude Include="../../src_rtccmfd/TLMCC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\RTCCTables.h">
+    <ClInclude Include="../../src_rtccmfd/RTCCTables.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\MCCPADForms.h">
+    <ClInclude Include="../../src_launch/MCCPADForms.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\GeneralizedIterator.h">
+    <ClInclude Include="../../src_rtccmfd/GeneralizedIterator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\TLIGuidanceSim.h">
+    <ClInclude Include="../../src_rtccmfd/TLIGuidanceSim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\LOITargeting.h">
+    <ClInclude Include="../../src_rtccmfd/LOITargeting.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\RTCCModule.h">
+    <ClInclude Include="../../src_rtccmfd/RTCCModule.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\CSMLMGuidanceSim.h">
+    <ClInclude Include="../../src_rtccmfd/CSMLMGuidanceSim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\CoastNumericalIntegrator.h">
+    <ClInclude Include="../../src_rtccmfd/CoastNumericalIntegrator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\RTCCSystemParameters.h">
+    <ClInclude Include="../../src_rtccmfd/RTCCSystemParameters.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\EnckeIntegrator.h">
+    <ClInclude Include="../../src_rtccmfd/EnckeIntegrator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\ReentryNumericalIntegrator.h">
+    <ClInclude Include="../../src_rtccmfd/ReentryNumericalIntegrator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\RTCC_EMSMISS.h">
+    <ClInclude Include="../../src_rtccmfd/RTCC_EMSMISS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\LunarTargetingProgram.h">
+    <ClInclude Include="../../src_rtccmfd/LunarTargetingProgram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\GeneralPurposeManeuver.h">
+    <ClInclude Include="../../src_rtccmfd/GeneralPurposeManeuver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\nassputils.h">
+    <ClInclude Include="../../src_aux/nassputils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_rtccmfd\ApollomfdButtons.cpp">
+    <ClCompile Include="../../src_rtccmfd/ApollomfdButtons.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\ApolloRTCCMFD.cpp">
+    <ClCompile Include="../../src_rtccmfd/ApolloRTCCMFD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\ARCore.cpp">
+    <ClCompile Include="../../src_rtccmfd/ARCore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\EntryCalculations.cpp">
+    <ClCompile Include="../../src_rtccmfd/EntryCalculations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\OrbMech.cpp">
+    <ClCompile Include="../../src_rtccmfd/OrbMech.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\rtcc.cpp">
+    <ClCompile Include="../../src_launch/rtcc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\EphemProg.cpp">
+    <ClCompile Include="../../src_rtccmfd/EphemProg.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\ARoapiModule.cpp">
+    <ClCompile Include="../../src_rtccmfd/ARoapiModule.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\LMGuidanceSim.cpp">
+    <ClCompile Include="../../src_rtccmfd/LMGuidanceSim.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\LWP.cpp">
+    <ClCompile Include="../../src_rtccmfd/LWP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\LDPP.cpp">
+    <ClCompile Include="../../src_rtccmfd/LDPP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\TLMCC.cpp">
+    <ClCompile Include="../../src_rtccmfd/TLMCC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\GeneralizedIterator.cpp">
+    <ClCompile Include="../../src_rtccmfd/GeneralizedIterator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\TLIGuidanceSim.cpp">
+    <ClCompile Include="../../src_rtccmfd/TLIGuidanceSim.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\CSMLMGuidanceSim.cpp">
+    <ClCompile Include="../../src_rtccmfd/CSMLMGuidanceSim.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\ApolloRTCCMFD_Display.cpp">
+    <ClCompile Include="../../src_rtccmfd/ApolloRTCCMFD_Display.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\LOITargeting.cpp">
+    <ClCompile Include="../../src_rtccmfd/LOITargeting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\rtcc_library_programs.cpp">
+    <ClCompile Include="../../src_rtccmfd/rtcc_library_programs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\rtcc_intermediate_library_programs.cpp">
+    <ClCompile Include="../../src_rtccmfd/rtcc_intermediate_library_programs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\RTCCModule.cpp">
+    <ClCompile Include="../../src_rtccmfd/RTCCModule.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\CoastNumericalIntegrator.cpp">
+    <ClCompile Include="../../src_rtccmfd/CoastNumericalIntegrator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\EnckeIntegrator.cpp">
+    <ClCompile Include="../../src_rtccmfd/EnckeIntegrator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\ReentryNumericalIntegrator.cpp">
+    <ClCompile Include="../../src_rtccmfd/ReentryNumericalIntegrator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\RTCC_EMSMISS.cpp">
+    <ClCompile Include="../../src_rtccmfd/RTCC_EMSMISS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\LunarTargetingProgram.cpp">
+    <ClCompile Include="../../src_rtccmfd/LunarTargetingProgram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\GeneralPurposeManeuver.cpp">
+    <ClCompile Include="../../src_rtccmfd/GeneralPurposeManeuver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -27,7 +27,7 @@ BEGIN_PANEL
 END_PANEL
 
 BEGIN_SHIPS
-AS-205:ProjectApollo/Saturn1B
+AS-205:ProjectApollo/Saturn1b
   STATUS Orbiting Earth
   RPOS 5689274.047 -2997720.782 -1722592.306
   RVEL 182.6504 -3598.9453 6826.4964
@@ -6696,7 +6696,7 @@ PANELSWITCHES_END
   SPLASHDOWN -1000000000.000000
   SaturnEvents END 
 END
-MCC:ProjectApollo\MCC
+MCC:ProjectApollo/MCC
   STATUS Landed Earth
   POS -95.0883333 29.5580556
   HEADING 270.00
@@ -7063,7 +7063,7 @@ LVDA_BEGIN
 LVDA_END
 IU_END
 LVDC_BEGIN
-  LVDC_FSPFileName Config\ProjectApollo\Saturn IB Default Flight Sequence Program.txt
+  LVDC_FSPFileName Config/ProjectApollo/saturn IB Default Flight Sequence Program.txt
   LVDC_alpha_D_op 1
   LVDC_BOOST 0
   LVDC_CountPIPA 1

@@ -48,7 +48,7 @@
 #include "s1c.h"
 #include "sm.h"
 #include "Sat5Abort1.h"
-#include "Sat5Abort2.h"
+#include "sat5abort2.h"
 #include "Sat5Abort3.h"
 #include "Mission.h"
 

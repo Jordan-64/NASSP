@@ -10228,6 +10228,6 @@ MATERIAL OpticsLens
 0.8999999761581421 0.8999999761581421 0.8999999761581421 1.0 100
 0.0 0.0 0.0 1.0
 TEXTURES 3
-ProjectApollo\CM_DT2.dds
-ProjectApollo\TOMPA_CM.dds
-ProjectApollo\slastereP.dds
+ProjectApollo/CM_DT2.DDS
+ProjectApollo/TOMPA_CM.DDS
+ProjectApollo/slastereP.dds

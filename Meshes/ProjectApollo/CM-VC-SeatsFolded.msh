@@ -12011,7 +12011,7 @@ MATERIAL Floodlights_with_Tex:_ProjectApollo/VCTest/CMVCDetTex1_ProjectA
 0.900 0.900 0.900 1.000 0.000
 0.600 0.600 0.600 1.000
 TEXTURES 4
-ProjectApollo\VC\CMVCDetTex5.dds
-ProjectApollo\VC\CMVCDetTex2.dds
-ProjectApollo\VC\CMVCDetTex6.dds
-ProjectApollo\VC\CMVCDetTex1.dds
+ProjectApollo/VC/CMVCDetTex5.dds
+ProjectApollo/VC/CMVCDetTex2.dds
+ProjectApollo/VC/CMVCDetTex6.dds
+ProjectApollo/VC/CMVCDetTex1.dds

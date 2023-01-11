@@ -34701,7 +34701,7 @@ void RTCC::EMSGSUPP(int QUEID, int refs, int refs2, unsigned man, bool headsup)
 	{
 		if (EZJGSTAR.size() == 0)
 		{
-			ifstream startable(".\\Config\\ProjectApollo\\RTCC\\Star Table.txt");
+			ifstream startable("./Config/ProjectApollo/RTCC/Star Table.txt");
 			std::string line;
 			VECTOR3 temp;
 

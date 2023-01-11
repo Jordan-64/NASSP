@@ -118,7 +118,7 @@ FILE_PATTERNS          = *.c \
                          *.dox \
                          *.py
 RECURSIVE              = NO
-EXCLUDE                = dinput.h \
+EXCLUDE                = dinput.h /
                          dsound.h
 EXCLUDE_SYMLINKS       = NO
 EXCLUDE_PATTERNS       = 

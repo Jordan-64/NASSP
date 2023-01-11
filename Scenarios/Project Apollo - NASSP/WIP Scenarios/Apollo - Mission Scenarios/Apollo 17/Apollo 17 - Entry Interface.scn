@@ -3,7 +3,7 @@ Orbiter saved state at T = 154
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System ProjectApollo\Sol_VirtualAGC
+  System ProjectApollo/Sol_VirtualAGC
   Date MJD 41670.7985434783
   Help CurrentState
 END_ENVIRONMENT
@@ -131,7 +131,7 @@ BEGIN_PANEL
 END_PANEL
 
 BEGIN_SHIPS
-America:ProjectApollo\Saturn5
+America:ProjectApollo/Saturn5
   STATUS Orbiting Earth
   RPOS -6348088.239 1409973.892 -1371523.241
   RVEL 2530.9072 -6384.2463 -8434.6794
@@ -6524,7 +6524,7 @@ PANELSWITCHES_END
   SPLASHDOWN -1000000000.000000
   SaturnEvents END 
 END
-Floodlight:ProjectApollo\Floodlight
+Floodlight:ProjectApollo/Floodlight
   STATUS Landed Earth
   POS -80.6041210 28.6082800
   HEADING 0.00
@@ -11150,7 +11150,7 @@ EVENTTIMER_END
   WAITFORCOMPLETION 0
   </checklist> 
 END
-Challenger-DESCENTSTG:ProjectApollo/sat5LMDSC
+Challenger-DESCENTSTG:ProjectApollo/Sat5LMDSC
   STATUS Landed Moon
   POS 30.7651208 20.1834486
   HEADING 272.46

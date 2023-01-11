@@ -36440,9 +36440,9 @@ MATERIAL Quads_ProjectApollo\quads_LM_DescentStage
 1.000 1.000 1.000 1.000 0.000
 0.000 0.000 0.000 1.000
 TEXTURES 6
-ProjectApollo\redfoil.dds
-ProjectApollo\silverfo.dds
-ProjectApollo\goldfoil.dds
-ProjectApollo\LMDCS.dds
-ProjectApollo\quads.dds
-ProjectApollo\SPS.dds
+ProjectApollo/redfoil.dds
+ProjectApollo/silverfo.dds
+ProjectApollo/goldfoil.dds
+ProjectApollo/LMDCS.dds
+ProjectApollo/quads.dds
+ProjectApollo/SPS.dds

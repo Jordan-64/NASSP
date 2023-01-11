@@ -60,7 +60,7 @@ AS-525:ProjectApollo/Saturn5
   MOONALT 0.0
   LANG English
 END
-ML:ProjectApollo\ML
+ML:ProjectApollo/ML
   STATUS Landed Earth
   POS -80.6080665 28.6008075
   HEADING 0.75

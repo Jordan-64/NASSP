@@ -64,13 +64,13 @@ AAP-1a:ProjectApollo/Saturn1b
     FILE Doc\Project Apollo - NASSP\Checklists\CSM Default Checklists.xls
   </Checklist>
 END
-LC34:ProjectApollo\LC34
+LC34:ProjectApollo/LC34
   STATUS Landed Earth
   POS -80.5643399 28.5150804
   HEADING 180.05
   LVNAME AAP-1a
 END
-VAB:ProjectApollo\VAB
+VAB:ProjectApollo/VAB
   STATUS Landed Earth
   POS -80.6532730 28.5795280
   HEADING 75.04

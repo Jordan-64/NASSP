@@ -15,33 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_launch\LCC.cpp">
+    <ClCompile Include="../../src_launch/LCC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\RCA110A.cpp">
+    <ClCompile Include="../../src_launch/RCA110A.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\LCC_MFD.cpp">
+    <ClCompile Include="../../src_launch/LCC_MFD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\LCCMFDButtons.cpp">
+    <ClCompile Include="../../src_launch/LCCMFDButtons.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_launch\LCC.h">
+    <ClInclude Include="../../src_launch/LCC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\PadLCCInterface.h">
+    <ClInclude Include="../../src_launch/PadLCCInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\RCA110A.h">
+    <ClInclude Include="../../src_launch/RCA110A.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\LCC_MFD.h">
+    <ClInclude Include="../../src_launch/LCC_MFD.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\LCCMFDButtons.h">
+    <ClInclude Include="../../src_launch/LCCMFDButtons.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

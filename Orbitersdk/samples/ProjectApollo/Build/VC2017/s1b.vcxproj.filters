@@ -15,36 +15,36 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_saturn\s1b.cpp">
+    <ClCompile Include="../../src_saturn/s1b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\soundlib.cpp">
+    <ClCompile Include="../../src_sys/soundlib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\pyro.cpp">
+    <ClCompile Include="../../src_sys/pyro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\s1bsystems.cpp">
+    <ClCompile Include="../../src_saturn/s1bsystems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\connector.cpp">
+    <ClCompile Include="../../src_sys/connector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_saturn\s1b.h">
+    <ClInclude Include="../../src_saturn/s1b.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\soundlib.h">
+    <ClInclude Include="../../src_sys/soundlib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\pyro.h">
+    <ClInclude Include="../../src_sys/pyro.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\s1bsystems.h">
+    <ClInclude Include="../../src_saturn/s1bsystems.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\connector.h">
+    <ClInclude Include="../../src_sys/connector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

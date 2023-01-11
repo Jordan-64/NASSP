@@ -15,24 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_saturn\ASTP.cpp">
+    <ClCompile Include="../../src_saturn/Astp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\payload.cpp">
+    <ClCompile Include="../../src_sys/payload.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\connector.cpp">
+    <ClCompile Include="../../src_sys/connector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_saturn\ASTP.h">
+    <ClInclude Include="../../src_saturn/ASTP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\connector.h">
+    <ClInclude Include="../../src_sys/connector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\payload.h">
+    <ClInclude Include="../../src_sys/payload.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

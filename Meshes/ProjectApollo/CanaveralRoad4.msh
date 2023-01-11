@@ -408,6 +408,6 @@ MATERIAL Material4
 1 1 1 1
 0 0 0 1
 TEXTURES 3
-ProjectApollo\CanaveralVAB3.dds
-ProjectApollo\CanaveralPipes.dds
-ProjectApollo\CanaveralRoad2.dds
+ProjectApollo/CanaveralVAB3.dds
+ProjectApollo/CanaveralPipes.dds
+ProjectApollo/CanaveralRoad2.dds

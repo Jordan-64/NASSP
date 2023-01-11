@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_csm\eva.cpp">
+    <ClCompile Include="../../src_csm/eva.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\tracer.cpp">
+    <ClCompile Include="../../src_aux/tracer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_csm\eva.h">
+    <ClInclude Include="../../src_csm/eva.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\tracer.h">
+    <ClInclude Include="../../src_aux/tracer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

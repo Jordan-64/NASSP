@@ -13994,9 +13994,9 @@ MATERIAL EngineBell
 1.0 1.0 1.0 1.0 8
 0.0 0.0 0.0 1.0
 TEXTURES 6
-ProjectApollo\redfoil.dds
-ProjectApollo\silverfo.dds
-ProjectApollo\goldfoil.dds
-ProjectApollo\LMDCS.dds
-ProjectApollo\quads.dds
-ProjectApollo\SPS.dds
+ProjectApollo/redfoil.dds
+ProjectApollo/silverfo.dds
+ProjectApollo/goldfoil.dds
+ProjectApollo/LMDCS.dds
+ProjectApollo/quads.dds
+ProjectApollo/SPS.dds

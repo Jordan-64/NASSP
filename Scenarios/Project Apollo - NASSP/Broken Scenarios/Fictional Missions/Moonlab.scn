@@ -59,7 +59,7 @@ Enterprise-ML:ProjectApollo\ML
   HEADING 0.75
   LVNAME Enterprise
 END
-Floodlight:ProjectApollo\Floodlight
+Floodlight:ProjectApollo/Floodlight
   STATUS Landed Earth
   POS -80.6069645 28.6012355
   HEADING 0.00

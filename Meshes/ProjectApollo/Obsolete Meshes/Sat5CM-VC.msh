@@ -32658,10 +32658,10 @@ MATERIAL Mtl #2
 0.9 0.9 0.9 0.11 76.0
 0.0 0.266667 0.94902 0.11
 TEXTURES 7
-ProjectApollo\shutte1.dds
-ProjectApollo\tompa_cm.dds
-ProjectApollo\CM_DT2.dds
-ProjectApollo\VCMain.dds
-ProjectApollo\VCSidePanels.dds
-ProjectApollo\slastereP.dds
-ProjectApollo\VCMain2.dds
+ProjectApollo/SHUTTE1.DDS
+ProjectApollo/TOMPA_CM.DDS
+ProjectApollo/CM_DT2.DDS
+ProjectApollo/VCMain.dds
+ProjectApollo/VCSidePanels.dds
+ProjectApollo/slastereP.dds
+ProjectApollo/VCMain2.dds

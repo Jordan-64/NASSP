@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_saturn\Sat5Abort2.cpp">
+    <ClCompile Include="../../src_saturn/Sat5Abort2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_saturn\Sat5Abort2.h">
+    <ClInclude Include="../../src_saturn/sat5abort2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

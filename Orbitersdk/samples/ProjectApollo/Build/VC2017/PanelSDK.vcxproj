@@ -110,38 +110,38 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_sys\PanelSDK\BUILD.CPP" />
-    <ClCompile Include="..\..\src_sys\PanelSDK\intruments.cpp" />
-    <ClCompile Include="..\..\src_sys\PanelSDK\Panel.cpp" />
-    <ClCompile Include="..\..\src_sys\PanelSDK\PanelSDK.cpp" />
-    <ClCompile Include="..\..\src_sys\PanelSDK\VSMGMT.CPP" />
-    <ClCompile Include="..\..\src_sys\PanelSDK\Matrix.cpp" />
-    <ClCompile Include="..\..\src_sys\PanelSDK\Vectors.cpp" />
-    <ClCompile Include="..\..\src_sys\PanelSDK\Internals\esysparse.cpp">
+    <ClCompile Include="../../src_sys/PanelSDK/BUILD.CPP" />
+    <ClCompile Include="../../src_sys/PanelSDK/intruments.cpp" />
+    <ClCompile Include="../../src_sys/PanelSDK/Panel.cpp" />
+    <ClCompile Include="../../src_sys/PanelSDK/PanelSDK.cpp" />
+    <ClCompile Include="../../src_sys/PanelSDK/VSMGMT.CPP" />
+    <ClCompile Include="../../src_sys/PanelSDK/Matrix.cpp" />
+    <ClCompile Include="../../src_sys/PanelSDK/Vectors.cpp" />
+    <ClCompile Include="../../src_sys/PanelSDK/Internals/esysparse.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\PanelSDK\Internals\Esystems.cpp">
+    <ClCompile Include="../../src_sys/PanelSDK/Internals/Esystems.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\PanelSDK\Internals\Hsysparse.cpp">
+    <ClCompile Include="../../src_sys/PanelSDK/Internals/Hsysparse.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\PanelSDK\Internals\Hsystems.cpp">
+    <ClCompile Include="../../src_sys/PanelSDK/Internals/Hsystems.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\PanelSDK\Internals\Thermal.cpp">
+    <ClCompile Include="../../src_sys/PanelSDK/Internals/Thermal.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
@@ -149,15 +149,15 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_sys\PanelSDK\BUILD.H" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\Internals\Esystems.h" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\Internals\Hsystems.h" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\instruments.h" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\Matrix.h" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\PanelSDK.h" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\Internals\Thermal.h" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\Vectors.h" />
-    <ClInclude Include="..\..\src_sys\PanelSDK\VSMGMT.H" />
+    <ClInclude Include="../../src_sys/PanelSDK/BUILD.H" />
+    <ClInclude Include="../../src_sys/PanelSDK/Internals/Esystems.h" />
+    <ClInclude Include="../../src_sys/PanelSDK/Internals/Hsystems.h" />
+    <ClInclude Include="../../src_sys/PanelSDK/instruments.h" />
+    <ClInclude Include="../../src_sys/PanelSDK/Matrix.h" />
+    <ClInclude Include="../../src_sys/PanelSDK/PanelSDK.h" />
+    <ClInclude Include="../../src_sys/PanelSDK/Internals/Thermal.h" />
+    <ClInclude Include="../../src_sys/PanelSDK/Vectors.h" />
+    <ClInclude Include="../../src_sys/PanelSDK/VSMGMT.H" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

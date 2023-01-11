@@ -145,21 +145,21 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="..\..\Logo.bmp" />
+    <None Include="../../Logo.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_aux\nassputils.h" />
-    <ClInclude Include="..\..\src_mfd\MFDResource.h" />
-    <ClInclude Include="..\..\src_mfd\ProjectApolloMFDButtons.h" />
-    <ClInclude Include="..\..\src_rtccmfd\OrbMech.h" />
-    <ClInclude Include="..\..\src_sys\connector.h" />
-    <ClInclude Include="..\..\src_mfd\MFDconnector.h" />
-    <ClInclude Include="..\..\src_mfd\ProjectApolloChecklistMFD.h" />
-    <ClInclude Include="..\..\src_mfd\ProjectApolloMFD.h" />
-    <ClInclude Include="..\..\src_mfd\ProjectApolloPlugin.h" />
+    <ClInclude Include="../../src_aux/nassputils.h" />
+    <ClInclude Include="../../src_mfd/MFDResource.h" />
+    <ClInclude Include="../../src_mfd/ProjectApolloMFDButtons.h" />
+    <ClInclude Include="../../src_rtccmfd/OrbMech.h" />
+    <ClInclude Include="../../src_sys/connector.h" />
+    <ClInclude Include="../../src_mfd/MFDconnector.h" />
+    <ClInclude Include="../../src_mfd/ProjectApolloChecklistMFD.h" />
+    <ClInclude Include="../../src_mfd/ProjectApolloMFD.h" />
+    <ClInclude Include="../../src_mfd/ProjectApolloPlugin.h" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="..\..\src_mfd\MFDResources.rc">
+    <ResourceCompile Include="../../src_mfd/MFDResources.rc">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -167,18 +167,18 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_mfd\ProjectApolloMFDButtons.cpp" />
-    <ClCompile Include="..\..\src_rtccmfd\OrbMech.cpp" />
-    <ClCompile Include="..\..\src_sys\connector.cpp" />
-    <ClCompile Include="..\..\src_mfd\MFDconnector.cpp" />
-    <ClCompile Include="..\..\src_mfd\ProjectApolloChecklistMFD.cpp" />
-    <ClCompile Include="..\..\src_mfd\ProjectApolloMFD.cpp">
+    <ClCompile Include="../../src_mfd/ProjectApolloMFDButtons.cpp" />
+    <ClCompile Include="../../src_rtccmfd/OrbMech.cpp" />
+    <ClCompile Include="../../src_sys/connector.cpp" />
+    <ClCompile Include="../../src_mfd/MFDconnector.cpp" />
+    <ClCompile Include="../../src_mfd/ProjectApolloChecklistMFD.cpp" />
+    <ClCompile Include="../../src_mfd/ProjectApolloMFD.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="..\..\src_mfd\ProjectApolloPlugin.cpp" />
+    <ClCompile Include="../../src_mfd/ProjectApolloPlugin.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

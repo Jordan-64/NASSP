@@ -15,114 +15,114 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_sys\connector.cpp">
+    <ClCompile Include="../../src_sys/connector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\iu.cpp">
+    <ClCompile Include="../../src_saturn/iu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\powersource.cpp">
+    <ClCompile Include="../../src_sys/powersource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\sivb.cpp">
+    <ClCompile Include="../../src_saturn/sivb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\LVDC.cpp">
+    <ClCompile Include="../../src_saturn/LVDC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\lvimu.cpp">
+    <ClCompile Include="../../src_saturn/lvimu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\OrbMech.cpp">
+    <ClCompile Include="../../src_rtccmfd/OrbMech.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\FCC.cpp">
+    <ClCompile Include="../../src_saturn/FCC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\eds.cpp">
+    <ClCompile Include="../../src_saturn/eds.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\LVDA.cpp">
+    <ClCompile Include="../../src_saturn/LVDA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\sivbsystems.cpp">
+    <ClCompile Include="../../src_saturn/sivbsystems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\dcs.cpp">
+    <ClCompile Include="../../src_saturn/dcs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\IUControlDistributor.cpp">
+    <ClCompile Include="../../src_saturn/IUControlDistributor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\DelayTimer.cpp">
+    <ClCompile Include="../../src_sys/DelayTimer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\IUAuxiliaryPowerDistributor.cpp">
+    <ClCompile Include="../../src_saturn/IUAuxiliaryPowerDistributor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\IUControlSignalProcessor.cpp">
+    <ClCompile Include="../../src_saturn/IUControlSignalProcessor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\pyro.cpp">
+    <ClCompile Include="../../src_sys/pyro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\inertial.cpp">
+    <ClCompile Include="../../src_sys/inertial.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_sys\connector.h">
+    <ClInclude Include="../../src_sys/connector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\iu.h">
+    <ClInclude Include="../../src_saturn/iu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\powersource.h">
+    <ClInclude Include="../../src_sys/powersource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\sivb.h">
+    <ClInclude Include="../../src_saturn/sivb.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\LVDC.h">
+    <ClInclude Include="../../src_saturn/LVDC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\LVIMU.h">
+    <ClInclude Include="../../src_saturn/LVIMU.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\OrbMech.h">
+    <ClInclude Include="../../src_rtccmfd/OrbMech.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\FCC.h">
+    <ClInclude Include="../../src_saturn/FCC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\eds.h">
+    <ClInclude Include="../../src_saturn/eds.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\LVDA.h">
+    <ClInclude Include="../../src_saturn/LVDA.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\sivbsystems.h">
+    <ClInclude Include="../../src_saturn/sivbsystems.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\dcs.h">
+    <ClInclude Include="../../src_saturn/dcs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\IUControlDistributor.h">
+    <ClInclude Include="../../src_saturn/IUControlDistributor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\DelayTimer.h">
+    <ClInclude Include="../../src_sys/DelayTimer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\IUAuxiliaryPowerDistributor.h">
+    <ClInclude Include="../../src_saturn/IUAuxiliaryPowerDistributor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_saturn\IUControlSignalProcessor.h">
+    <ClInclude Include="../../src_saturn/IUControlSignalProcessor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\pyro.h">
+    <ClInclude Include="../../src_sys/pyro.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\inertial.h">
+    <ClInclude Include="../../src_sys/inertial.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

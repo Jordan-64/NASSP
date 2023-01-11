@@ -281,7 +281,7 @@ LVDA_BEGIN
 LVDA_END
 IU_END
 LVDC_BEGIN
-  LVDC_FSPFileName Config\ProjectApollo\AS-204 Flight Sequence Program.txt
+  LVDC_FSPFileName Config/ProjectApollo/AS-204 Flight Sequence Program.txt
   LVDC_alpha_D_op 1
   LVDC_BOOST 0
   LVDC_CountPIPA 0
@@ -2637,7 +2637,7 @@ AS-204-Nosecap:ProjectApollo/Sat1Aerocap
   AROT 151.151 -8.280 94.533
   DOCKINFO 0:2,S-IVB-204
 END
-LC37:ProjectApollo\LC37
+LC37:ProjectApollo/LC37
   STATUS Landed Earth
   POS -80.5650777 28.5314463
   HEADING 180.05
@@ -2649,7 +2649,7 @@ LC37:ProjectApollo\LC37
   SIVBNAME S-IVB-204
   LAUNCHMJD 39877.950104166703
 END
-MCC:ProjectApollo\MCC
+MCC:ProjectApollo/MCC
   STATUS Landed Earth
   POS -95.0883333 29.5580556
   HEADING 270.00

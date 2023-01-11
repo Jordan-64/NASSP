@@ -5,7 +5,7 @@ Enabled features: MCC
 END_DESC
 
 BEGIN_ENVIRONMENT
-  System ProjectApollo\Sol_VirtualAGC
+  System ProjectApollo/Sol_VirtualAGC
   Date MJD 40211.36875
   Help NASSP/503
 END_ENVIRONMENT
@@ -26,7 +26,7 @@ BEGIN_PANEL
 END_PANEL
 
 BEGIN_SHIPS
-AS-503:ProjectApollo\Saturn5
+AS-503:ProjectApollo/Saturn5
   STATUS Landed Earth
   BASE Cape Canaveral:2
   POS -80.6041140 28.6082888
@@ -57,7 +57,7 @@ AS-503:ProjectApollo\Saturn5
   LANG English
   AUTOSLOW 1  
 LVDC_BEGIN
-  LVDC_FSPFileName Config\ProjectApollo\AS-503 Flight Sequence Program.txt
+  LVDC_FSPFileName Config/ProjectApollo/AS-503 Flight Sequence Program.txt
   LVDC_ALFTSA 15.015
   LVDC_ALFTSB 15.997
   LVDC_ART 5.0
@@ -549,30 +549,30 @@ LVIMU_END
     FILE Doc\Project Apollo - NASSP\Checklists\Apollo 8 Checklists.xls
   </Checklist>  
 END
-Crawler-Transporter:ProjectApollo\Crawler
+Crawler-Transporter:ProjectApollo/Crawler
   STATUS Landed Earth
   POS -80.6208716 28.5950241
   HEADING 65.81
   LVNAME AS-503
 END
-ML:ProjectApollo\ML
+ML:ProjectApollo/ML
   STATUS Landed Earth
   POS -80.6041122 28.6083723
   HEADING 0.58
   LVNAME AS-503
 END
-VAB:ProjectApollo\VAB
+VAB:ProjectApollo/VAB
   STATUS Landed Earth
   POS -80.6509353 28.5860469
   HEADING 75.67
   LVNAME AS-503
 END
-MSS:ProjectApollo\MSS
+MSS:ProjectApollo/MSS
   STATUS Landed Earth
   POS -80.6199329 28.5953797
   HEADING 245.34
 END
-Floodlight:ProjectApollo\Floodlight
+Floodlight:ProjectApollo/Floodlight
   STATUS Landed Earth
   POS -80.6041210 28.6082800
   HEADING 0.00
@@ -584,7 +584,7 @@ Floodlight:ProjectApollo\Floodlight
   LIGHT 4 50.400000 26.200000 14.900000 2.829178 1.106539 245.000000 35
   LIGHT 5 -56.500000 25.900000 -12.100000 5.719444 0.930261 245.000000 35
 END
-MCC:ProjectApollo\MCC
+MCC:ProjectApollo/MCC
   STATUS Landed Earth
   POS -95.08833333 29.55805556
   HEADING 270.00

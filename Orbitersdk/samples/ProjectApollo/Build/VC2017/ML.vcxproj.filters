@@ -15,111 +15,111 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_launch\ML.cpp">
+    <ClCompile Include="../../src_launch/ML.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\soundlib.cpp">
+    <ClCompile Include="../../src_sys/soundlib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\tracer.cpp">
+    <ClCompile Include="../../src_aux/tracer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\IUUmbilical.cpp">
+    <ClCompile Include="../../src_launch/IUUmbilical.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\IUUmbilicalInterface.cpp">
+    <ClCompile Include="../../src_launch/IUUmbilicalInterface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\IU_ESE.cpp">
+    <ClCompile Include="../../src_launch/IU_ESE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\TSMUmbilical.cpp">
+    <ClCompile Include="../../src_launch/TSMUmbilical.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\SIC_ESE.cpp">
+    <ClCompile Include="../../src_launch/SIC_ESE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_launch\RCA110A.cpp">
+    <ClCompile Include="../../src_launch/RCA110A.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_sys\yaAGC\agc_engine.h">
+    <ClInclude Include="../../src_sys/yaAGC/agc_engine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\apolloguidance.h">
+    <ClInclude Include="../../src_sys/apolloguidance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\cautionwarning.h">
+    <ClInclude Include="../../src_sys/cautionwarning.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\csmcautionwarning.h">
+    <ClInclude Include="../../src_csm/csmcautionwarning.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\CSMcomputer.h">
+    <ClInclude Include="../../src_csm/CSMcomputer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\dsky.h">
+    <ClInclude Include="../../src_sys/dsky.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\FDAI.h">
+    <ClInclude Include="../../src_sys/FDAI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\IMU.h">
+    <ClInclude Include="../../src_sys/IMU.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\missiontimer.h">
+    <ClInclude Include="../../src_sys/missiontimer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\ML.h">
+    <ClInclude Include="../../src_launch/ML.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\nasspdefs.h">
+    <ClInclude Include="../../src_sys/nasspdefs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\nasspsound.h">
+    <ClInclude Include="../../src_sys/nasspsound.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\OrbiterMath.h">
+    <ClInclude Include="../../src_aux/OrbiterMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\satswitches.h">
+    <ClInclude Include="../../src_csm/satswitches.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\saturn.h">
+    <ClInclude Include="../../src_csm/saturn.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\soundlib.h">
+    <ClInclude Include="../../src_sys/soundlib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\toggleswitch.h">
+    <ClInclude Include="../../src_sys/toggleswitch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\tracer.h">
+    <ClInclude Include="../../src_aux/tracer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\IUUmbilical.h">
+    <ClInclude Include="../../src_launch/IUUmbilical.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\IUUmbilicalInterface.h">
+    <ClInclude Include="../../src_launch/IUUmbilicalInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\IU_ESE.h">
+    <ClInclude Include="../../src_launch/IU_ESE.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\TSMUmbilical.h">
+    <ClInclude Include="../../src_launch/TSMUmbilical.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\TSMUmbilicalInterface.h">
+    <ClInclude Include="../../src_launch/TSMUmbilicalInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\SIC_ESE.h">
+    <ClInclude Include="../../src_launch/SIC_ESE.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\LCCPadInterface.h">
+    <ClInclude Include="../../src_launch/LCCPadInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_launch\RCA110A.h">
+    <ClInclude Include="../../src_launch/RCA110A.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

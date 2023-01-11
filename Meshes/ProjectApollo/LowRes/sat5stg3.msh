@@ -8129,6 +8129,6 @@ MATERIAL Material.001
 1.0 1.0 1.0 1.0 50
 0.0 0.0 0.0 1.0
 TEXTURES 3
-ProjectApollo\S5S4Bbottom.dds
-ProjectApollo\LowRes\s4b.dds
-ProjectApollo\S5S4Btop.dds
+ProjectApollo/S5S4Bbottom.dds
+ProjectApollo/LowRes/s4b.dds
+ProjectApollo/S5S4Btop.dds

@@ -146,11 +146,11 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_saturn\LES.cpp" />
+    <ClCompile Include="../../src_saturn/LES.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_saturn\LES.h" />
-    <ClInclude Include="..\..\src_sys\nasspdefs.h" />
+    <ClInclude Include="../../src_saturn/LES.h" />
+    <ClInclude Include="../../src_sys/nasspdefs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -164,17 +164,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_launch\LCC.h" />
-    <ClInclude Include="..\..\src_launch\LCCMFDButtons.h" />
-    <ClInclude Include="..\..\src_launch\LCC_MFD.h" />
-    <ClInclude Include="..\..\src_launch\PadLCCInterface.h" />
-    <ClInclude Include="..\..\src_launch\RCA110A.h" />
+    <ClInclude Include="../../src_launch/LCC.h" />
+    <ClInclude Include="../../src_launch/LCCMFDButtons.h" />
+    <ClInclude Include="../../src_launch/LCC_MFD.h" />
+    <ClInclude Include="../../src_launch/PadLCCInterface.h" />
+    <ClInclude Include="../../src_launch/RCA110A.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_launch\LCC.cpp" />
-    <ClCompile Include="..\..\src_launch\LCCMFDButtons.cpp" />
-    <ClCompile Include="..\..\src_launch\LCC_MFD.cpp" />
-    <ClCompile Include="..\..\src_launch\RCA110A.cpp" />
+    <ClCompile Include="../../src_launch/LCC.cpp" />
+    <ClCompile Include="../../src_launch/LCCMFDButtons.cpp" />
+    <ClCompile Include="../../src_launch/LCC_MFD.cpp" />
+    <ClCompile Include="../../src_launch/RCA110A.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

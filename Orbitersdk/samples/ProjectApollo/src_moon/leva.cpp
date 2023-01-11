@@ -493,7 +493,7 @@ void LEVA::SetFlag()
 	char VName[256]="";
 	char FName[256];
 
-	sprintf(FName, "ProjectApollo/Apollo%d/sat5flag.cfg", ApolloNo);
+	sprintf(FName, "ProjectApollo/Apollo%d/Sat5Flag.cfg", ApolloNo);
 	strcpy (VName, GetName()); strcat (VName, "-FLAG");
 
 	FILE *fp = fopen(FName, "rt");

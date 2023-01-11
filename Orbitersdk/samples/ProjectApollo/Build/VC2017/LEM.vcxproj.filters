@@ -21,542 +21,542 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_sys\apolloguidance.cpp">
+    <ClCompile Include="../../src_sys/apolloguidance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\BasicExcelVC6.cpp">
+    <ClCompile Include="../../src_aux/BasicExcelVC6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\cautionwarning.cpp">
+    <ClCompile Include="../../src_sys/cautionwarning.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\checklistController.cpp">
+    <ClCompile Include="../../src_sys/checklistController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\checklistControllerHelpers.cpp">
+    <ClCompile Include="../../src_sys/checklistControllerHelpers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\connector.cpp">
+    <ClCompile Include="../../src_sys/connector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\dsky.cpp">
+    <ClCompile Include="../../src_sys/dsky.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\dskyinterface.cpp">
+    <ClCompile Include="../../src_sys/dskyinterface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\FDAI.cpp">
+    <ClCompile Include="../../src_sys/FDAI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\imu.cpp">
+    <ClCompile Include="../../src_sys/imu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\imulog.cpp">
+    <ClCompile Include="../../src_sys/imulog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\imumath.cpp">
+    <ClCompile Include="../../src_sys/imumath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\LEM.cpp">
+    <ClCompile Include="../../src_lm/LEM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\LEMcomputer.cpp">
+    <ClCompile Include="../../src_lm/LEMcomputer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lemmesh.cpp">
+    <ClCompile Include="../../src_lm/lemmesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lempanel.cpp">
+    <ClCompile Include="../../src_lm/lempanel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lemswitches.cpp">
+    <ClCompile Include="../../src_lm/lemswitches.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lemsystems.cpp">
+    <ClCompile Include="../../src_lm/lemsystems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lemvc.cpp">
+    <ClCompile Include="../../src_lm/lemvc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_ags.cpp">
+    <ClCompile Include="../../src_lm/lm_ags.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_telecom.cpp">
+    <ClCompile Include="../../src_lm/lm_telecom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lmscs.cpp">
+    <ClCompile Include="../../src_lm/lmscs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_mfd\MFDconnector.cpp">
+    <ClCompile Include="../../src_mfd/MFDconnector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\missiontimer.cpp">
+    <ClCompile Include="../../src_sys/missiontimer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\payload.cpp">
+    <ClCompile Include="../../src_sys/payload.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\powersource.cpp">
+    <ClCompile Include="../../src_sys/powersource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\soundevents.cpp">
+    <ClCompile Include="../../src_sys/soundevents.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\soundlib.cpp">
+    <ClCompile Include="../../src_sys/soundlib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\thread.cpp">
+    <ClCompile Include="../../src_sys/thread.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\toggleswitch.cpp">
+    <ClCompile Include="../../src_sys/toggleswitch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\tracer.cpp">
+    <ClCompile Include="../../src_aux/tracer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\yaAGC\agc_engine.c">
+    <ClCompile Include="../../src_sys/yaAGC/agc_engine.c">
       <Filter>yaAGC</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\yaAGC\agc_engine_init.c">
+    <ClCompile Include="../../src_sys/yaAGC/agc_engine_init.c">
       <Filter>yaAGC</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\yaAGC\agc_utilities.c">
+    <ClCompile Include="../../src_sys/yaAGC/agc_utilities.c">
       <Filter>yaAGC</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\yaAGC\Backtrace.c">
+    <ClCompile Include="../../src_sys/yaAGC/Backtrace.c">
       <Filter>yaAGC</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\yaAGC\random.c">
+    <ClCompile Include="../../src_sys/yaAGC/random.c">
       <Filter>yaAGC</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\yaAGC\rfopen.c">
+    <ClCompile Include="../../src_sys/yaAGC/rfopen.c">
       <Filter>yaAGC</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\yaAGS\aea_engine.c">
+    <ClCompile Include="../../src_lm/yaAGS/aea_engine.c">
       <Filter>yaAGS</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\yaAGS\aea_engine_init.c">
+    <ClCompile Include="../../src_lm/yaAGS/aea_engine_init.c">
       <Filter>yaAGS</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\yaAGS\OutputAPI_AGS.c">
+    <ClCompile Include="../../src_lm/yaAGS/OutputAPI_AGS.c">
       <Filter>yaAGS</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\OrbiterMath.cpp">
+    <ClCompile Include="../../src_aux/OrbiterMath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\CDK.cpp">
+    <ClCompile Include="../../src_aux/CDK.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\ORDEAL.cpp">
+    <ClCompile Include="../../src_sys/ORDEAL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\MechanicalAccelerometer.cpp">
+    <ClCompile Include="../../src_sys/MechanicalAccelerometer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_eds.cpp">
+    <ClCompile Include="../../src_lm/lm_eds.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\pyro.cpp">
+    <ClCompile Include="../../src_sys/pyro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\DelayTimer.cpp">
+    <ClCompile Include="../../src_sys/DelayTimer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_aps.cpp">
+    <ClCompile Include="../../src_lm/lm_aps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\cdu.cpp">
+    <ClCompile Include="../../src_sys/cdu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_dps.cpp">
+    <ClCompile Include="../../src_lm/lm_dps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_programer.cpp">
+    <ClCompile Include="../../src_lm/lm_programer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_aca.cpp">
+    <ClCompile Include="../../src_lm/lm_aca.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_ttca.cpp">
+    <ClCompile Include="../../src_lm/lm_ttca.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_scea.cpp">
+    <ClCompile Include="../../src_lm/lm_scea.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_rcs.cpp">
+    <ClCompile Include="../../src_lm/lm_rcs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_ecs.cpp">
+    <ClCompile Include="../../src_lm/lm_ecs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lemconnector.cpp">
+    <ClCompile Include="../../src_lm/lemconnector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_rtccmfd\OrbMech.cpp">
+    <ClCompile Include="../../src_rtccmfd/OrbMech.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_cwea.cpp">
+    <ClCompile Include="../../src_lm/lm_cwea.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_eps.cpp">
+    <ClCompile Include="../../src_lm/lm_eps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_rr.cpp">
+    <ClCompile Include="../../src_lm/lm_rr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\CWEA_FlipFlop.cpp">
+    <ClCompile Include="../../src_lm/CWEA_FlipFlop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\animations.cpp">
+    <ClCompile Include="../../src_aux/animations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\Mission.cpp">
+    <ClCompile Include="../../src_aux/Mission.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_aux\vesim.cpp">
+    <ClCompile Include="../../src_aux/vesim.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_lm\lm_aeaa.cpp">
+    <ClCompile Include="../../src_lm/lm_aeaa.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src_sys\inertial.cpp">
+    <ClCompile Include="../../src_sys/inertial.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_sys\apolloguidance.h">
+    <ClInclude Include="../../src_sys/apolloguidance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\BasicExcelVC6.hpp">
+    <ClInclude Include="../../src_aux/BasicExcelVC6.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\cautionwarning.h">
+    <ClInclude Include="../../src_sys/cautionwarning.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\checklistController.h">
+    <ClInclude Include="../../src_sys/checklistController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\connector.h">
+    <ClInclude Include="../../src_sys/connector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\csmcautionwarning.h">
+    <ClInclude Include="../../src_csm/csmcautionwarning.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\dockingprobe.h">
+    <ClInclude Include="../../src_csm/dockingprobe.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\dsky.h">
+    <ClInclude Include="../../src_sys/dsky.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\FDAI.h">
+    <ClInclude Include="../../src_sys/FDAI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\IMU.h">
+    <ClInclude Include="../../src_sys/IMU.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\ioChannels.h">
+    <ClInclude Include="../../src_sys/ioChannels.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\LEM.h">
+    <ClInclude Include="../../src_lm/LEM.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\LEMcomputer.h">
+    <ClInclude Include="../../src_lm/LEMcomputer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lemswitches.h">
+    <ClInclude Include="../../src_lm/lemswitches.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_moon\leva.h">
+    <ClInclude Include="../../src_moon/leva.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_ags.h">
+    <ClInclude Include="../../src_lm/lm_ags.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_telecom.h">
+    <ClInclude Include="../../src_lm/lm_telecom.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lmscs.h">
+    <ClInclude Include="../../src_lm/lmscs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_mfd\MFDconnector.h">
+    <ClInclude Include="../../src_mfd/MFDconnector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\missiontimer.h">
+    <ClInclude Include="../../src_sys/missiontimer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\nasspdefs.h">
+    <ClInclude Include="../../src_sys/nasspdefs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\nasspsound.h">
+    <ClInclude Include="../../src_sys/nasspsound.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\OrbiterMath.h">
+    <ClInclude Include="../../src_aux/OrbiterMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\payload.h">
+    <ClInclude Include="../../src_sys/payload.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\powersource.h">
+    <ClInclude Include="../../src_sys/powersource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\pyro.h">
+    <ClInclude Include="../../src_sys/pyro.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\resource.h">
+    <ClInclude Include="../../src_csm/resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\satswitches.h">
+    <ClInclude Include="../../src_csm/satswitches.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\saturn.h">
+    <ClInclude Include="../../src_csm/saturn.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_csm\secs.h">
+    <ClInclude Include="../../src_csm/secs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\soundevents.h">
+    <ClInclude Include="../../src_sys/soundevents.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\soundlib.h">
+    <ClInclude Include="../../src_sys/soundlib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\toggleswitch.h">
+    <ClInclude Include="../../src_sys/toggleswitch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\tracer.h">
+    <ClInclude Include="../../src_aux/tracer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\yaAGC\agc_engine.h">
+    <ClInclude Include="../../src_sys/yaAGC/agc_engine.h">
       <Filter>yaAGC</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\yaAGC\yaAGC.h">
+    <ClInclude Include="../../src_sys/yaAGC/yaAGC.h">
       <Filter>yaAGC</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\yaAGS\aea_engine.h">
+    <ClInclude Include="../../src_lm/yaAGS/aea_engine.h">
       <Filter>yaAGS</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\yaAGS\yaAEA.h">
+    <ClInclude Include="../../src_lm/yaAGS/yaAEA.h">
       <Filter>yaAGS</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\ORDEAL.h">
+    <ClInclude Include="../../src_sys/ORDEAL.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\MechanicalAccelerometer.h">
+    <ClInclude Include="../../src_sys/MechanicalAccelerometer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_eds.h">
+    <ClInclude Include="../../src_lm/lm_eds.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\DelayTimer.h">
+    <ClInclude Include="../../src_sys/DelayTimer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_aps.h">
+    <ClInclude Include="../../src_lm/lm_aps.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\cdu.h">
+    <ClInclude Include="../../src_sys/cdu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_dps.h">
+    <ClInclude Include="../../src_lm/lm_dps.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_programer.h">
+    <ClInclude Include="../../src_lm/lm_programer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_aca.h">
+    <ClInclude Include="../../src_lm/lm_aca.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_ttca.h">
+    <ClInclude Include="../../src_lm/lm_ttca.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lmresource.h">
+    <ClInclude Include="../../src_lm/lmresource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_channels.h">
+    <ClInclude Include="../../src_lm/lm_channels.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_scea.h">
+    <ClInclude Include="../../src_lm/lm_scea.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_rcs.h">
+    <ClInclude Include="../../src_lm/lm_rcs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_ecs.h">
+    <ClInclude Include="../../src_lm/lm_ecs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lemconnector.h">
+    <ClInclude Include="../../src_lm/lemconnector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_rtccmfd\OrbMech.h">
+    <ClInclude Include="../../src_rtccmfd/OrbMech.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_cwea.h">
+    <ClInclude Include="../../src_lm/lm_cwea.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_eps.h">
+    <ClInclude Include="../../src_lm/lm_eps.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_rr.h">
+    <ClInclude Include="../../src_lm/lm_rr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\CWEA_FlipFlop.h">
+    <ClInclude Include="../../src_lm/CWEA_FlipFlop.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\LM_AscentStageResource.h">
+    <ClInclude Include="../../src_lm/LM_AscentStageResource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\animations.h">
+    <ClInclude Include="../../src_aux/animations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\LM_DescentStageResource.h">
+    <ClInclude Include="../../src_lm/LM_DescentStageResource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\LM_VC_Resource.h">
+    <ClInclude Include="../../src_lm/LM_VC_Resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\Mission.h">
+    <ClInclude Include="../../src_aux/Mission.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\RF_calc.h">
+    <ClInclude Include="../../src_aux/RF_calc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_aux\vesim.h">
+    <ClInclude Include="../../src_aux/vesim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_lm\lm_aeaa.h">
+    <ClInclude Include="../../src_lm/lm_aeaa.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\src_sys\inertial.h">
+    <ClInclude Include="../../src_sys/inertial.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\Abort.bmp">
+    <None Include="../../abort.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\abort.bmp">
+    <None Include="../../Bitmaps/abort.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\ags_keys.bmp">
+    <None Include="../../Bitmaps/ags_keys.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\ags_lights.bmp">
+    <None Include="../../Bitmaps/ags_lights.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\alignment_optical_telescope_view.bmp">
+    <None Include="../../alignment_optical_telescope_view.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\Altimeter.bmp">
+    <None Include="../../Bitmaps/Altimeter.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Altimeter.bmp">
+    <None Include="../../Altimeter.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\Annonciators.bmp">
+    <None Include="../../Bitmaps/Annonciators.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Annonciators.bmp">
+    <None Include="../../Annonciators.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\aot_reticle_knob.bmp">
+    <None Include="../../Bitmaps/aot_reticle_knob.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\aot_shaft_knob.bmp">
+    <None Include="../../Bitmaps/aot_shaft_knob.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\Bitmaps\bitmap1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border23x20.bmp">
+    <None Include="../../Bitmaps/border23x20.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border29x29.bmp">
+    <None Include="../../Bitmaps/border29x29.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border32x160.bmp">
+    <None Include="../../Bitmaps/border32x160.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border34x29.bmp">
+    <None Include="../../Bitmaps/border34x29.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border34x31.bmp">
+    <None Include="../../Bitmaps/border34x31.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border34x33.bmp">
+    <None Include="../../Bitmaps/border34x33.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border34x34.bmp">
+    <None Include="../../Bitmaps/border34x34.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border34x39.bmp">
+    <None Include="../../Bitmaps/border34x39.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border34x61.bmp">
+    <None Include="../../Bitmaps/border34x61.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border38x52.bmp">
+    <None Include="../../Bitmaps/border38x52.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border39x38.bmp">
+    <None Include="../../Bitmaps/border39x38.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border46x75.bmp">
+    <None Include="../../Bitmaps/border46x75.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border50x158.bmp">
+    <None Include="../../Bitmaps/border50x158.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border55x111.bmp">
+    <None Include="../../Bitmaps/border55x111.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border70x70.bmp">
+    <None Include="../../Bitmaps/border70x70.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border72x72.bmp">
+    <None Include="../../Bitmaps/border72x72.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border75x64.bmp">
+    <None Include="../../Bitmaps/border75x64.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border78x78.bmp">
+    <None Include="../../Bitmaps/border78x78.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border84x84.bmp">
+    <None Include="../../Bitmaps/border84x84.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border90x90.bmp">
+    <None Include="../../Bitmaps/border90x90.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\border92x40.bmp">
+    <None Include="../../Bitmaps/border92x40.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\circuit_breaker.bmp">
+    <None Include="../../Bitmaps/circuit_breaker.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\circuit_breaker.bmp">
+    <None Include="../../circuit_breaker.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\circuit_breaker_lem.bmp">
+    <None Include="../../circuit_breaker_lem.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\coas_lem1.bmp">
+    <None Include="../../Bitmaps/coas_lem1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\coas_lem2.bmp">
+    <None Include="../../Bitmaps/coas_lem2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\contact.bmp">
+    <None Include="../../Bitmaps/contact.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\contact.bmp">
+    <None Include="../../contact.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\digitaldisp.bmp">
+    <None Include="../../Bitmaps/digitaldisp.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\digitaldisp.bmp">
+    <None Include="../../digitaldisp.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\digitaldisp_2.bmp">
+    <None Include="../../Bitmaps/digitaldisp_2.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\dsky_1.bmp">
@@ -565,347 +565,347 @@
     <None Include="..\..\dsky_3.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\dsky_disp.bmp">
+    <None Include="../../Bitmaps/dsky_disp.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\dsky_disp.bmp">
+    <None Include="../../dsky_disp.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\dsky_keys.bmp">
+    <None Include="../../dsky_keys.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\dsky_keys.bmp">
+    <None Include="../../Bitmaps/dsky_keys.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\dsky_lights.bmp">
+    <None Include="../../dsky_lights.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\dsky_lights.bmp">
+    <None Include="../../Bitmaps/dsky_lights.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ecs.bmp">
+    <None Include="../../ecs.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\ecs.bmp">
+    <None Include="../../Bitmaps/ecs.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\FDAI.bmp">
+    <None Include="../../FDAI.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\FDAI.bmp">
+    <None Include="../../Bitmaps/FDAI.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\FDAI_needles.bmp">
+    <None Include="../../Bitmaps/FDAI_needles.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\FDAI_off_flag.bmp">
+    <None Include="../../Bitmaps/FDAI_off_flag.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\FDAIRoll.bmp">
+    <None Include="../../Bitmaps/FDAIRoll.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\FDAIRollindicator.bmp">
+    <None Include="../../Bitmaps/FDAIRollindicator.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\fiveposswitch.bmp">
+    <None Include="../../Bitmaps/fiveposswitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\Gmeter.bmp">
+    <None Include="../../Bitmaps/Gmeter.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Gmeter.bmp">
+    <None Include="../../Gmeter.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\heading.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\Horizon.bmp">
+    <None Include="../../Bitmaps/Horizon.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Horizon.bmp">
+    <None Include="../../Horizon.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Horizon2.bmp">
+    <None Include="../../Horizon2.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\ilmabort.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmAnnonciators.bmp">
+    <None Include="../../ilmAnnonciators.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\ilmdsky_1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmecs.bmp">
+    <None Include="../../ilmecs.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmFDAI.bmp">
+    <None Include="../../ilmFDAI.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\ilmindicators2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmlaunchlight.bmp">
+    <None Include="../../ilmlaunchlight.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmlemswitch2.bmp">
+    <None Include="../../ilmlemswitch2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmlights2.bmp">
+    <None Include="../../ilmlights2.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\ilmlv_eng.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmmasteralarm.bmp">
+    <None Include="../../ilmmasteralarm.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmpanellm-left.bmp">
+    <None Include="../../ilmpanellm-left.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\ilmpanellm-right.bmp">
+    <None Include="../ilmpanellm-right.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmpswitch.bmp">
+    <None Include="../../ilmpswitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\ilmswitc.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmswitch1.bmp">
+    <None Include="../../ilmswitch1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmswitch_lever.bmp">
+    <None Include="../../ilmswitch_lever.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmswitchup.bmp">
+    <None Include="../../ilmswitchup.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\ilmswitchup3.bmp">
+    <None Include="../../ilmswitchup3.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\Indicator.bmp">
+    <None Include="../../Bitmaps/Indicator.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\indicators2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\launchlight.bmp">
+    <None Include="../../Bitmaps/launchlight.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\LaunchLight.bmp">
+    <None Include="../../launchlight.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\lem3poslever.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_aot_panel_wide.bmp">
+    <None Include="../../Bitmaps/lem_aot_panel_wide.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_cw_lights.bmp">
+    <None Include="../../Bitmaps/lem_cw_lights.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lem_left_panel.bmp">
+    <None Include="../../lem_left_panel.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_left_panel.bmp">
+    <None Include="../../Bitmaps/lem_left_panel.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lem_left_window.bmp">
+    <None Include="../../lem_left_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_left_window.bmp">
+    <None Include="../../Bitmaps/lem_left_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_lpd_window.bmp">
+    <None Include="../../Bitmaps/lem_lpd_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lem_lpd_window.bmp">
+    <None Include="../../lem_lpd_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lem_main_panel.bmp">
+    <None Include="../../lem_main_panel.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_main_panel.bmp">
+    <None Include="../../Bitmaps/lem_main_panel.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_pitch_degs.bmp">
+    <None Include="../../Bitmaps/lem_pitch_degs.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lem_rendezvous_window.bmp">
+    <None Include="../../lem_rendezvous_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_rendezvous_window.bmp">
+    <None Include="../../Bitmaps/lem_rendezvous_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lem_right_panel.bmp">
+    <None Include="../../lem_right_panel.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_right_panel.bmp">
+    <None Include="../../Bitmaps/lem_right_panel.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lem_right_window.bmp">
+    <None Include="../../lem_right_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_right_window.bmp">
+    <None Include="../../Bitmaps/lem_right_window.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_signal_strength.bmp">
+    <None Include="../../Bitmaps/lem_signal_strength.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_stage_switch.bmp">
+    <None Include="../../Bitmaps/lem_stage_switch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_switchup.bmp">
+    <None Include="../../Bitmaps/lem_switchup.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_threeposswitch.bmp">
+    <None Include="../../Bitmaps/lem_threeposswitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_yaw_degs.bmp">
+    <None Include="../../Bitmaps/lem_yaw_degs.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lemleftwindow-ilm.bmp">
+    <None Include="../../lemleftwindow-ilm.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lemleftwindow.bmp">
+    <None Include="../../lemleftwindow.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\LemRotationalSwitch.bmp">
+    <None Include="../../LemRotationalSwitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\LemRotationalSwitch.bmp">
+    <None Include="../../Bitmaps/LemRotationalSwitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lemswitch2.bmp">
+    <None Include="../../Bitmaps/lemswitch2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lemswitch2.bmp">
+    <None Include="../../lemswitch2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lemswitch3.bmp">
+    <None Include="../../lemswitch3.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lemswitch3.bmp">
+    <None Include="../../Bitmaps/lemswitch3.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lemswitchup.bmp">
+    <None Include="../../lemswitchup.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lights2.bmp">
+    <None Include="../../Bitmaps/lights2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lights2.bmp">
+    <None Include="../../lights2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\lm3posswitch.bmp">
+    <None Include="../../lm3posswitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\LMAbortButton.bmp">
+    <None Include="../../Bitmaps/LMAbortButton.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\LMAbortButton.bmp">
+    <None Include="../../LMAbortButton.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\LMDCAmps.bmp">
+    <None Include="../../Bitmaps/LMDCAmps.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\LMDCVolts.bmp">
+    <None Include="../../Bitmaps/LMDCVolts.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\LMMFDFrame.bmp">
+    <None Include="../../LMMFDFrame.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\LMMFDFrame.bmp">
+    <None Include="../../Bitmaps/LMMFDFrame.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\LV_ENG.bmp">
+    <None Include="../../lv_eng.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lv_eng.bmp">
+    <None Include="../../Bitmaps/lv_eng.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\masteralarm.bmp">
+    <None Include="../../masteralarm.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\masteralarmbright.bmp">
+    <None Include="../../masteralarmbright.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\masteralarmbright.bmp">
+    <None Include="../../Bitmaps/masteralarmbright.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\needle1.bmp">
+    <None Include="../../Bitmaps/needle1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Needle1.bmp">
+    <None Include="../../needle1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Panel1.bmp">
+    <None Include="../../Panel1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\PanelLM-left.bmp">
+    <None Include="../../PanelLM-left.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\PanelLM-right.bmp">
+    <None Include="../../PanelLM-right.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\Pswitch.bmp">
+    <None Include="../../Bitmaps/Pswitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\PSwitch.bmp">
+    <None Include="../../Pswitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="..\..\Rot_Knob.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\switch1.bmp">
+    <None Include="../../Bitmaps/switch1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\switch1.bmp">
+    <None Include="../../switch1.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\switch_lever.bmp">
+    <None Include="../../Bitmaps/switch_lever.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\switch_lever.bmp">
+    <None Include="../../switch_lever.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\switchup.bmp">
+    <None Include="../../Bitmaps/switchup.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\SwitchUP.bmp">
+    <None Include="../../switchup.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\switchup2.bmp">
+    <None Include="../../switchup2.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\switchup3.bmp">
+    <None Include="../../switchup3.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\switchup3.bmp">
+    <None Include="../../Bitmaps/switchup3.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\threeposswitch.bmp">
+    <None Include="../../Bitmaps/threeposswitch.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\Thrustmeter.bmp">
+    <None Include="../../Bitmaps/Thrustmeter.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Thrustmeter.bmp">
+    <None Include="../../Thrustmeter.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\thumbwheel_large_fonts.bmp">
+    <None Include="../../Bitmaps/thumbwheel_large_fonts.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lem_notrack.bmp">
+    <None Include="../../Bitmaps/lem_notrack.bmp">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\Bitmaps\lm_range_rate_indicator_scales.bmp">
+    <None Include="../../Bitmaps/lm_range_rate_indicator_scales.bmp">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="..\..\src_lm\LEMResources.rc" />
+    <ResourceCompile Include="../../src_lm/LEMResources.rc" />
   </ItemGroup>
 </Project>

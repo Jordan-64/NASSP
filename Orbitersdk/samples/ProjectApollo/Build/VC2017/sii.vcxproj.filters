@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_saturn\sii.cpp">
+    <ClCompile Include="../../src_saturn/sii.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_saturn\sii.h">
+    <ClInclude Include="../../src_saturn/sii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

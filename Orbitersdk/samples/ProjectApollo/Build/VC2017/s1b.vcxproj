@@ -146,23 +146,23 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src_saturn\s1b.cpp">
+    <ClCompile Include="../../src_saturn/s1b.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="..\..\src_saturn\s1bsystems.cpp" />
-    <ClCompile Include="..\..\src_sys\connector.cpp" />
-    <ClCompile Include="..\..\src_sys\pyro.cpp" />
-    <ClCompile Include="..\..\src_sys\soundlib.cpp" />
+    <ClCompile Include="../../src_saturn/s1bsystems.cpp" />
+    <ClCompile Include="../../src_sys/connector.cpp" />
+    <ClCompile Include="../../src_sys/pyro.cpp" />
+    <ClCompile Include="../../src_sys/soundlib.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\src_saturn\s1b.h" />
-    <ClInclude Include="..\..\src_saturn\s1bsystems.h" />
-    <ClInclude Include="..\..\src_sys\connector.h" />
-    <ClInclude Include="..\..\src_sys\pyro.h" />
-    <ClInclude Include="..\..\src_sys\soundlib.h" />
+    <ClInclude Include="../../src_saturn/s1b.h" />
+    <ClInclude Include="../../src_saturn/s1bsystems.h" />
+    <ClInclude Include="../../src_sys/connector.h" />
+    <ClInclude Include="../../src_sys/pyro.h" />
+    <ClInclude Include="../../src_sys/soundlib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
