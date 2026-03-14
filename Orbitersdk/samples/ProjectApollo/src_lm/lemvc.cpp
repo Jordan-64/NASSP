@@ -2332,32 +2332,32 @@ void LEM::DefineVCAnimations()
 
 	MainPanelVC.AddSwitch(&EngineThrustInd);
 	EngineThrustInd.SetReference(NEEDLE_POS);
-	EngineThrustInd.SetRotationRange(RAD * 38.6);
+	EngineThrustInd.SetRotationRange(RAD * 39.1);
 	EngineThrustInd.DefineMeshGroup(VC_GRP_Needle_P1_01);
 
 	MainPanelVC.AddSwitch(&CommandedThrustInd);
 	CommandedThrustInd.SetReference(NEEDLE_POS);
-	CommandedThrustInd.SetRotationRange(RAD * 38.6);
+	CommandedThrustInd.SetRotationRange(RAD * 39.1);
 	CommandedThrustInd.DefineMeshGroup(VC_GRP_Needle_P1_02);
 
 	MainPanelVC.AddSwitch(&MainFuelTempInd);
 	MainFuelTempInd.SetReference(NEEDLE_POS);
-	MainFuelTempInd.SetRotationRange(RAD * 38.6);
+	MainFuelTempInd.SetRotationRange(RAD * 39.1);
 	MainFuelTempInd.DefineMeshGroup(VC_GRP_Needle_P1_03);
 
 	MainPanelVC.AddSwitch(&MainOxidizerTempInd);
 	MainOxidizerTempInd.SetReference(NEEDLE_POS);
-	MainOxidizerTempInd.SetRotationRange(RAD * 38.6);
+	MainOxidizerTempInd.SetRotationRange(RAD * 39.1);
 	MainOxidizerTempInd.DefineMeshGroup(VC_GRP_Needle_P1_04);
 
 	MainPanelVC.AddSwitch(&MainFuelPressInd);
 	MainFuelPressInd.SetReference(NEEDLE_POS);
-	MainFuelPressInd.SetRotationRange(RAD * 38.6);
+	MainFuelPressInd.SetRotationRange(RAD * 39.1);
 	MainFuelPressInd.DefineMeshGroup(VC_GRP_Needle_P1_05);
 
 	MainPanelVC.AddSwitch(&MainOxidizerPressInd);
 	MainOxidizerPressInd.SetReference(NEEDLE_POS);
-	MainOxidizerPressInd.SetRotationRange(RAD * 38.6);
+	MainOxidizerPressInd.SetRotationRange(RAD * 39.1);
 	MainOxidizerPressInd.DefineMeshGroup(VC_GRP_Needle_P1_06);
 
 	MainPanelVC.AddSwitch(&ThrustWeightInd);
@@ -2490,81 +2490,81 @@ void LEM::DefineVCAnimations()
 
 	MainPanelVC.AddSwitch(&LMRCSATempInd);
 	LMRCSATempInd.SetReference(NEEDLE_POS);
-	LMRCSATempInd.SetRotationRange(RAD * 38.6);
+	LMRCSATempInd.SetRotationRange(RAD * 39.1);
 	LMRCSATempInd.DefineMeshGroup(VC_GRP_Needle_P2_01);
 
 	MainPanelVC.AddSwitch(&LMRCSBTempInd);
 	LMRCSBTempInd.SetReference(NEEDLE_POS);
-	LMRCSBTempInd.SetRotationRange(RAD * 38.6);
+	LMRCSBTempInd.SetRotationRange(RAD * 39.1);
 	LMRCSBTempInd.DefineMeshGroup(VC_GRP_Needle_P2_02);
 
 	MainPanelVC.AddSwitch(&LMRCSAPressInd);
 	LMRCSAPressInd.SetReference(NEEDLE_POS);
-	LMRCSAPressInd.SetRotationRange(RAD * 38.6);
+	LMRCSAPressInd.SetRotationRange(RAD * 39.1);
 	LMRCSAPressInd.DefineMeshGroup(VC_GRP_Needle_P2_03);
 
 	MainPanelVC.AddSwitch(&LMRCSBPressInd);
 	LMRCSBPressInd.SetReference(NEEDLE_POS);
-	LMRCSBPressInd.SetRotationRange(RAD * 38.6);
+	LMRCSBPressInd.SetRotationRange(RAD * 39.1);
 	LMRCSBPressInd.DefineMeshGroup(VC_GRP_Needle_P2_04);
 
 	MainPanelVC.AddSwitch(&LMRCSAQtyInd);
 	LMRCSAQtyInd.SetReference(NEEDLE_POS);
-	LMRCSAQtyInd.SetRotationRange(RAD * 38.6);
+	LMRCSAQtyInd.SetRotationRange(RAD * 39.1);
 	LMRCSAQtyInd.DefineMeshGroup(VC_GRP_Needle_P2_05);
 
 	MainPanelVC.AddSwitch(&LMRCSBQtyInd);
 	LMRCSBQtyInd.SetReference(NEEDLE_POS);
-	LMRCSBQtyInd.SetRotationRange(RAD * 38.6);
+	LMRCSBQtyInd.SetRotationRange(RAD * 39.1);
 	LMRCSBQtyInd.DefineMeshGroup(VC_GRP_Needle_P2_06);
 
 	MainPanelVC.AddSwitch(&LMSuitTempMeter);
 	LMSuitTempMeter.SetReference(NEEDLE_POS);
-	LMSuitTempMeter.SetRotationRange(RAD * 38.6);
+	LMSuitTempMeter.SetRotationRange(RAD * 39.1);
 	LMSuitTempMeter.DefineMeshGroup(VC_GRP_Needle_P2_07);
 
 	MainPanelVC.AddSwitch(&LMCabinTempMeter);
 	LMCabinTempMeter.SetReference(NEEDLE_POS);
-	LMCabinTempMeter.SetRotationRange(RAD * 38.6);
+	LMCabinTempMeter.SetRotationRange(RAD * 39.1);
 	LMCabinTempMeter.DefineMeshGroup(VC_GRP_Needle_P2_08);
 
 	MainPanelVC.AddSwitch(&LMSuitPressMeter);
 	LMSuitPressMeter.SetReference(NEEDLE_POS);
-	LMSuitPressMeter.SetRotationRange(RAD * 38.6);
+	LMSuitPressMeter.SetRotationRange(RAD * 39.1);
 	LMSuitPressMeter.DefineMeshGroup(VC_GRP_Needle_P2_09);
 
 	MainPanelVC.AddSwitch(&LMCabinPressMeter);
 	LMCabinPressMeter.SetReference(NEEDLE_POS);
-	LMCabinPressMeter.SetRotationRange(RAD * 38.6);
+	LMCabinPressMeter.SetRotationRange(RAD * 39.1);
 	LMCabinPressMeter.DefineMeshGroup(VC_GRP_Needle_P2_10);
 
 	NEEDLE_POS = { 0.2785, 0.6710, 1.8063 };
 
 	MainPanelVC.AddSwitch(&LMGlycolTempMeter);
 	LMGlycolTempMeter.SetReference(NEEDLE_POS);
-	LMGlycolTempMeter.SetRotationRange(RAD * 38.6);
+	LMGlycolTempMeter.SetRotationRange(RAD * 39.1);
 	LMGlycolTempMeter.DefineMeshGroup(VC_GRP_Needle_P2_11);
 
 	MainPanelVC.AddSwitch(&LMGlycolPressMeter);
 	LMGlycolPressMeter.SetReference(NEEDLE_POS);
-	LMGlycolPressMeter.SetRotationRange(RAD * 38.6);
+	LMGlycolPressMeter.SetRotationRange(RAD * 39.1);
 	LMGlycolPressMeter.DefineMeshGroup(VC_GRP_Needle_P2_12);
 
 	MainPanelVC.AddSwitch(&LMOxygenQtyMeter);
 	LMOxygenQtyMeter.SetReference(NEEDLE_POS);
-	LMOxygenQtyMeter.SetRotationRange(RAD * 38.6);
+	LMOxygenQtyMeter.SetRotationRange(RAD * 39.1);
 	LMOxygenQtyMeter.DefineMeshGroup(VC_GRP_Needle_P2_13);
 
 	MainPanelVC.AddSwitch(&LMWaterQtyMeter);
 	LMWaterQtyMeter.SetReference(NEEDLE_POS);
-	LMWaterQtyMeter.SetRotationRange(RAD * 38.6);
+	LMWaterQtyMeter.SetRotationRange(RAD * 39.1);
 	LMWaterQtyMeter.DefineMeshGroup(VC_GRP_Needle_P2_14);
 
 	NEEDLE_POS = { 0.1862, 0.7887, 1.8224 };
 
 	MainPanelVC.AddSwitch(&LMCO2Meter);
 	LMCO2Meter.SetReference(NEEDLE_POS);
-	LMCO2Meter.SetRotationRange(RAD * 38.6);
+	LMCO2Meter.SetRotationRange(RAD * 39.1);
 	LMCO2Meter.DefineMeshGroup(VC_GRP_Needle_P2_15);
 
 	MainPanelVC.AddSwitch(&RCSAscFeed1ATB, AID_VC_RCS_ASC_FEED_TALKBACKS);
